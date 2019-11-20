@@ -1,2 +1,2 @@
-# HelloMeridian
+# meridiancoder.HelloMeridian
 Sample repository to test access to team members.
